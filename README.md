@@ -20,6 +20,9 @@ rm <filename> | rm mytext.txt | delete File
 rmdir <directory name> | rmdir MyNewfolder/ | removes an empty directory
 rm -rf <Folder Name> | rm -rf MyNewFolder | Deletes a directory that has contents
 clear | clear | clears a terminal window
+git pull | git pull | pulls the respository and it's changes from GitHub
+git add <FolderName> | git add MyNewFolder | Creates an action for Github tostart tracking
+git commit -m '<Message>' | git commit - .m "I've made a few changes" |
 
 
 
